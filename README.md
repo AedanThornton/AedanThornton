@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hello! I'm Aedan.</h1>
 
-<!--
-**AedanThornton/AedanThornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Software Developer Projects</h2>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Web Development:</h3>
+<ul>
+  <li>Math Education Digital Board Game</li>
+</ul>
+
+<hr>
+
+<h3>What I'm Currently Working On:</h3>
+<ul>
+  <li>Web Development Bootcamp</li>
+  <li>Learning Unity Game Development</li>
+</ul>
