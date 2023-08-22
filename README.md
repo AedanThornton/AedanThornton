@@ -7,6 +7,7 @@
 <h3>Web Development:</h3>
 <ul>
   <li>Math Education Digital Board Game</li>
+  <li>Simon Says Game</li>
 </ul>
 
 <hr>
