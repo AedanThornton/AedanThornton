@@ -6,8 +6,8 @@
 
 <h3>Web Development:</h3>
 <ul>
-  <li>Math Education Digital Board Game</li>
-  <li>Simon Says Game</li>
+  <li><a href = "https://github.com/AedanThornton/NumberlineMathGame">Math Education Digital Board Game</a></li>
+  <li><a href = "https://github.com/AedanThornton/SimonSaysGame">Simon Says Game</a></li>
 </ul>
 
 <hr>
