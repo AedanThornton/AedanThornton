@@ -8,6 +8,7 @@
 <ul>
   <li><a href = "https://github.com/AedanThornton/NumberlineMathGame">Math Education Digital Board Game</a></li>
   <li><a href = "https://github.com/AedanThornton/SimonSaysGame">Simon Says Game</a></li>
+  <li><a href = "https://github.com/AedanThornton/Wordle">Wordle Clone</a></li>
 </ul>
 
 <hr>
