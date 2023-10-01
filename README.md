@@ -15,6 +15,7 @@
 
 <h3>What I'm Currently Working On:</h3>
 <ul>
+  <li>AnyCards, an AnyDice counterpart for calculating card odds</li>
   <li>Web Development Bootcamp</li>
   <li>Learning Unity Game Development</li>
 </ul>
