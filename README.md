@@ -15,7 +15,6 @@
 
 <h3>What I'm Currently Working On:</h3>
 <ul>
+  <li>The ATCC (Aeon Trespass Card Catalog), a web base for viewing the vast array of cards in the Aeon Trespass games.</li>
   <li>AnyCards, an AnyDice counterpart for calculating card odds</li>
-  <li>Web Development Bootcamp</li>
-  <li>Learning Unity Game Development</li>
 </ul>
